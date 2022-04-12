@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="13.376461">
-<testcase classname="Test" name="sample scenario" time="13.376461">
-<system-out><![CDATA[Given : sample test url navigation..........................................passed
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="19.164371">
+<testcase classname="Test" name="sample scenario" time="19.164371">
+<system-out><![CDATA[Given sample test url navigation............................................passed
+And Login into the page with username and password..........................passed
 ]]></system-out>
 </testcase>
 </testsuite>
